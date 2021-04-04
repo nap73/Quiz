@@ -1,0 +1,120 @@
+[
+  
+    {
+      "id": 1,
+      "question": "Inside which HTML element do we put the JavaScript??",
+      "a": "<script>",
+      "b": "<javascript>",
+      "c": "<js>",
+      "d": "<scripting>",
+      "answer": "a" ,
+      "selected":""
+      
+    },
+    
+    {
+    "id": 2,
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "a": "<script href='xxx.js'>",
+      "b": "<script name='xxx.js'>",
+      "c": "<script src='xxx.js'>",
+      "d": "<script file='xxx.js'>",
+      "answer": "c" ,
+      "selected":""
+      
+    },
+    {
+     "id": 3,
+      "question": " How do you write 'Hello World' in an alert box?",
+      "a": "msgBox('Hello World');",
+      "b": "alertBox('Hello World');",
+      "c": "msg('Hello World');",
+      "d": "alert('Hello World');",
+      "answer": "d" ,
+       "selected":""
+    } ,
+    
+    {
+    "id": 4,
+      "question": "What is the scientific name of a butterfly?",
+      "a": "Apis",
+      "b": "Coleoptera",
+      "c": "Formicidae",
+      "d": "Rhopalocera",
+      "answer": "c",
+       "selected":""
+    } ,
+   
+    {
+     "id": 5,
+      "question": "How hot is the surface of the sun?",
+      "a": "1,233 K",
+      "b": "5,233 K",
+      "c": "7,233 K",
+      "d": "9,233 K",
+      "answer": "a",
+       "selected":""
+    } ,
+     {
+     "id": 6,
+      "question":"Who are the actors in The Internship?",
+      "a": "Ben Stiller, Jonah Hill",
+      "b": "Courteney Cox, Matt LeBlanc",
+      "c": "Kaley Cuoco, Jim Parsons",
+      "d": "Vince Vaughn, Owen Wilson",
+      "answer": "c",
+       "selected":""
+    } ,
+    
+     {
+     "id": 7,
+      "question": "What is the capital of Spain?",
+      "a": "Berlin",
+      "b": "Buenos Aires",
+      "c": "Madrid",
+      "d": "San Juan" ,
+      "answer": "b" ,
+       "selected":""
+    } ,
+    
+      {
+     "id": 8,
+      "question": "What are the school colors of the University of Texas at Austin?",
+      "a": "Black, Red",
+      "b": "Blue, Orange",
+      "c": "White, Burnt Orange",
+      "d": "White, Old gold, Gold",
+      "answer": "b",
+       "selected":""
+    } ,
+    
+      {
+     "id": 9,
+      "question": "What is 70 degrees Fahrenheit in Celsius?",
+      "a": "18.8889",
+      "b": "20",
+      "c": "21.1111",
+      "d": "158",
+      "answer": "b",
+       "selected":""
+    } ,
+    
+      {
+     "id":10,
+      "question": "What is 70 degrees Fahrenheit in Celsius?",
+      "a": "18.8889",
+      "b": "20",
+      "c": "21.1111",
+      "d": "158",
+      "answer": "b" ,
+       "selected":""
+    } 
+    
+  ]
+  
+  
+  
+  
+  
+  
+  
